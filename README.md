@@ -2,7 +2,7 @@
 # 💐OliviaFlowers💐
 Сайт-каталог, ориентированный на продажу цветов.
 
-## 🛠️ Мы использовали
+## 🛠️ Использовались
 - Java Spring
 - MySQL/PostgreSQL
 - HTML
@@ -32,39 +32,4 @@ Ctrl+Shift+F10
 
 Сайт также располагается по ссылке: http://176.109.100.154:8080/
 
-Хотим предупредить, что в связи с отсутствием финансирования, долгая загрузка каталога является нормой)
-
-## &#11088; Участники проекта
-
-<table>
-    <tr>
-        <td align="center" valign="top" style="font-size: 20px;">
-            <a href="https://github.com/Lumer1337" style="text-decoration: none; color: inherit;">
-                <sub><b>🌹Плешаков Илья🌹</b></sub>
-            </a><br/>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" valign="top" style="font-size: 20px;">
-            <a href="https://github.com/Polina24zinoveva" style="text-decoration: none; color: inherit;">
-                <sub><b>🌷Зиновьева Полина🌷</b></sub>
-            </a><br/>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" valign="top" style="font-size: 20px;">
-            <a href="https://github.com/AntonSTT" style="text-decoration: none; color: inherit;">
-                <sub><b>🌺Старков Антон🌺</b></sub>
-            </a><br/>
-        </td>
-    </tr>
-    <tr>
-        <td align="center" valign="top" style="font-size: 20px;">
-            <a href="https://github.com/GrishkoVi" style="text-decoration: none; color: inherit;">
-                <sub><b>🌸Гришкова Виктория🌸</b></sub>
-            </a><br/>
-        </td>
-    </tr>
-</table>
-
-
+В связи с отсутствием финансирования, долгая загрузка каталога является нормой)
